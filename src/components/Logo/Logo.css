@@ -1,0 +1,26 @@
+.logo__container {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.logo__author {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F8F8F8;
+    margin: 0 0 0 12px;
+    padding: 0;
+}
