@@ -6,6 +6,7 @@
     flex-direction: row;
     align-items: center;
     position: relative;
+    border-radius: 16px 16px 0 0;
 }
 
 .header__logos {

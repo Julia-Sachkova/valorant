@@ -1,7 +1,7 @@
 import './App.css';
 
 import Circles from '../Circles/Circles';
-import Main from '../Main/Main';
+import Page from '../Page/Page';
 import Logo from '../Logo/Logo';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div className="app">
       <Circles />
       <Logo />
-      <Main />
+      <Page />
     </div>
   );
 }

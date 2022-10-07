@@ -1,0 +1,7 @@
+.page {
+    margin: 151px auto;
+    width: calc(100% - 220px);
+    z-index: 3;
+    border-radius: 16px;
+    box-shadow: 10px 10px 80px rgba(0, 0, 0, 0.5);
+}
