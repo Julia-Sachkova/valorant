@@ -1,0 +1,7 @@
+.skills {
+    position: absolute;
+    bottom: -25px;
+    left: -60px;
+    display: flex;
+    flex-direction: row;
+}

@@ -1,7 +1,7 @@
 .main {
     margin: 0;
     width: 100%;
-    min-height: 792px;
+    height: 726px;
     background-image: url("../../images/background.jpg");
     box-sizing: border-box;
     background-size: cover;
@@ -11,176 +11,6 @@
     display: flex;
     flex-direction: row;
     position: relative;
-}
-
-.main__line-one {
-    position: absolute;
-    width: 20px;
-    height: 4px;
-    top: 91px;
-    left: 51px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__line-two {
-    position: absolute;
-    width: 30.5px;
-    height: 4px;
-    top: 352.5px;
-    right: 188.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__line-three {
-    position: absolute;
-    width: 116px;
-    height: 4px;
-    top: 33px;
-    right: 246.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__line-four {
-    position: absolute;
-    width: 116px;
-    height: 4px;
-    left: 51px;
-    bottom: 138px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__line-five {
-    position: absolute;
-    width: 12px;
-    height: 4px;
-    top: 91px;
-    right: 555.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__line-six {
-    position: absolute;
-    width: 40px;
-    height: 4px;
-    right: 549px;
-    bottom: 307.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-one {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 215px;
-    left: 51px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-two {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 484.5px;
-    bottom: 184px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-three {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 191px;
-    right: 260px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-four {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    right: 183.5px;
-    bottom: 138px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-five {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    right: 199.5px;
-    bottom: 138px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-six {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 41.5px;
-    left: 210.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-seven {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 41.5px;
-    left: 194.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-eight {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    right: 26.5px;
-    bottom: 146.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-nine {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 41.5px;
-    left: 415.5px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-ten {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 153px;
-    right: 549px;
-    background: #1F2326;
-    opacity: 0.5;
-}
-
-.main__square-eleven {
-    position: absolute;
-    width: 4px;
-    height: 4px;
-    right: 549px;
-    bottom: 245.5px;
-    background: #1F2326;
-    opacity: 0.5;
 }
 
 .main__title {
@@ -196,7 +26,7 @@
     padding: 0;
     margin: 0;
     position: absolute;
-    left: -90px;
-    top: 270px;
+    left: -120px;
+    top: 250px;
     transform: rotate(90deg);
 }

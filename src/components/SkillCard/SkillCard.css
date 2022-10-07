@@ -1,0 +1,152 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #000000;
+    width: 364px;
+    height: 126px;
+    position: relative;
+    z-index: 4;
+    clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
+    margin-right: 40px;
+}
+
+.card:last-of-type {
+    margin: 0;
+}
+
+.card__container {
+    position: absolute;
+    top: 1px;
+    bottom: 1px;
+    right: 1px;
+    left: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #F8F8F8;
+    width: 362px;
+    height: 124px;
+    position: relative;
+    z-index: 4;
+    clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
+}
+
+.card__text {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 15.5px 0 15.5px 29px;
+}
+
+.card__title {
+    font-family: 'Druk Wide';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 20.5px;
+    color: #C4C4C4;
+    margin: 0 0 16px;
+    padding: 0;
+}
+
+.card__subtitle {
+    font-family: 'Druk Wide';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 12.5px;
+    color: #000000;
+    margin: 0 0 16px;
+    padding: 0;
+}
+
+.card__paragraph {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 10px;
+    letter-spacing: 0.1em;
+    color: #1F2326;
+    margin: 0;
+    padding: 0;
+    max-width: 157.5px;
+}
+
+.card__icon-container {
+    height: 100%;
+    width: 42.5%;
+}
+
+.card__icon-square {
+    width: 95px;
+    height: 91px;
+    background-color: #FF4656;
+    position: absolute;
+    bottom: 0;
+    right: 59px;
+}
+
+.card__basic-icon {
+    width: 83.5px;
+    height: 80.5px;
+    position: absolute;
+    top: 15.5px;
+    right: 36px;
+    background-color: transparent;
+}
+
+.card__signature-icon {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    top: 11px;
+    right: 40px;
+    background-color: transparent;
+}
+
+.card__ultimate-icon {
+    width: 89.5px;
+    height: 78px;
+    position: absolute;
+    top: 18px;
+    right: 33px;
+    background-color: transparent;
+}
+
+.card__last {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #000000;
+    width: 111.5px;
+    height: 126px;
+    position: relative;
+    z-index: 4;
+    clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
+    margin-right: 40px;
+}
+
+.card__last-container {
+    position: absolute;
+    top: 1px;
+    bottom: 1px;
+    right: 1px;
+    left: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #F8F8F8;
+    width: 109.5px;
+    height: 124px;
+    position: relative;
+    z-index: 4;
+    clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
+}
+
+.card__arrow {
+    width: 10.5px;
+    height: 9px;
+}
