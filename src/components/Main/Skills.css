@@ -1,7 +1,115 @@
 .skills {
     position: absolute;
-    bottom: -25px;
-    left: -60px;
+    bottom: -31px;
+    left: -75px;
     display: flex;
     flex-direction: row;
+}
+
+.skills__phoenix-first {
+    width: 33px;
+    height: 45px;
+    background-color: transparent;
+    margin-right: 29px;
+}
+
+.skills__phoenix-second {
+    width: 22.5px;
+    height: 40.5px;
+    background-color: transparent;
+    margin-right: 29px;
+}
+
+.skills__phoenix-third {
+    width: 43px;
+    height: 31.5px;
+    background-color: transparent;
+    margin-right: 29px;
+}
+
+.skills__phoenix-thourth {
+    width: 35.5px;
+    height: 26.5px;
+    background-color: transparent;
+}
+
+.skills__jett-first {
+    width: 29px;
+    height: 36.5px;
+    background-color: transparent;
+    margin-right: 31.5px;
+}
+
+.skills__jett-second {
+    width: 26.5px;
+    height: 35.5px;
+    background-color: transparent;
+    margin-right: 31.5px;
+}
+
+.skills__jett-third {
+    width: 36px;
+    height: 28px;
+    background-color: transparent;
+    margin-right: 31.5px;
+}
+
+.skills__jett-thourth {
+    width: 33px;
+    height: 36px;
+    background-color: transparent;
+}
+
+.skills__sova-first {
+    width: 38px;
+    height: 36px;
+    background-color: transparent;
+    margin-right: 23px;
+}
+
+.skills__sova-second {
+    width: 42.5px;
+    height: 14px;
+    background-color: transparent;
+    margin-right: 23px;
+}
+
+.skills__sova-third {
+    width: 37.5px;
+    height: 33px;
+    background-color: transparent;
+    margin-right: 23px;
+}
+
+.skills__sova-thourth {
+    width: 35.5px;
+    height: 34px;
+    background-color: transparent;
+}
+
+.skills__sage-first {
+    width: 31px;
+    height: 30px;
+    background-color: transparent;
+    margin-right: 27.5px;
+}
+
+.skills__sage-second {
+    width: 43.5px;
+    height: 21.5px;
+    background-color: transparent;
+    margin-right: 27.5px;
+}
+
+.skills__sage-third {
+    width: 33px;
+    height: 33px;
+    background-color: transparent;
+    margin-right: 27.5px;
+}
+
+.skills__sage-thourth {
+    width: 32.5px;
+    height: 28.5px;
+    background-color: transparent;
 }

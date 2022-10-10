@@ -1,178 +1,178 @@
 .figure__line-one {
     position: absolute;
-    width: 20px;
-    height: 4px;
-    top: 91px;
-    left: 51px;
+    width: 25px;
+    height: 5px;
+    top: 113.75px;
+    left: 63.75px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__line-two {
     position: absolute;
-    width: 30.5px;
-    height: 4px;
-    top: 352.5px;
-    right: 188.5px;
+    width: 38px;
+    height: 5px;
+    top: 440.5px;
+    right: 235.5px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__line-three {
     position: absolute;
-    width: 116px;
-    height: 4px;
-    top: 33px;
-    right: 246.5px;
+    width: 145px;
+    height: 5px;
+    top: 41.25px;
+    right: 308px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__line-four {
     position: absolute;
-    width: 116px;
-    height: 4px;
-    left: 51px;
-    bottom: 138px;
+    width: 145px;
+    height: 5px;
+    left: 63.5px;
+    bottom: 172.5px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__line-five {
     position: absolute;
-    width: 12px;
-    height: 4px;
-    top: 91px;
-    right: 555.5px;
+    width: 15px;
+    height: 5px;
+    top: 113.5px;
+    right: 693.5px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__line-six {
     position: absolute;
-    width: 40px;
-    height: 4px;
-    right: 549px;
-    bottom: 307.5px;
+    width: 50px;
+    height: 5px;
+    right: 686px;
+    bottom: 384px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-one {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 215px;
-    left: 51px;
+    width: 5px;
+    height: 5px;
+    top: 268.5px;
+    left: 63.6px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-two {
     position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 484.5px;
-    bottom: 184px;
+    width: 25px;
+    height: 25px;
+    left: 605.5px;
+    bottom: 230px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-three {
     position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 191px;
-    right: 260px;
+    width: 25px;
+    height: 25px;
+    top: 238.5px;
+    right: 325px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-four {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    right: 183.5px;
-    bottom: 138px;
+    width: 5px;
+    height: 5px;
+    right: 228.5px;
+    bottom: 172.5px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-five {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    right: 199.5px;
-    bottom: 138px;
+    width: 5px;
+    height: 5px;
+    right: 249px;
+    bottom: 172.5px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-six {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 41.5px;
-    left: 210.5px;
+    width: 5px;
+    height: 5px;
+    top: 51.5px;
+    left: 263px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-seven {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 41.5px;
-    left: 194.5px;
+    width: 5px;
+    height: 5px;
+    top: 51.5px;
+    left: 243px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-eight {
     position: absolute;
-    width: 20px;
-    height: 20px;
-    right: 26.5px;
-    bottom: 146.5px;
+    width: 25px;
+    height: 25px;
+    right: 33px;
+    bottom: 183px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-nine {
     position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 41.5px;
-    left: 415.5px;
+    width: 25px;
+    height: 25px;
+    top: 51.5px;
+    left: 519px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-ten {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    top: 153px;
-    right: 549px;
+    width: 5px;
+    height: 5px;
+    top: 191.25px;
+    right: 686.25px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__square-eleven {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    right: 549px;
-    bottom: 245.5px;
+    width: 5px;
+    height: 5px;
+    right: 686.25px;
+    bottom: 306.5px;
     background: #1F2326;
     opacity: 0.5;
 }
 
 .figure__background-icon {
     position: absolute;
-    bottom: 171.5px;
-    left: 50px;
-    width: 40px;
-    height: 45.5px;
+    bottom: 214px;
+    left: 62.5px;
+    width: 50px;
+    height: 56.5px;
     background-color: transparent;
 }

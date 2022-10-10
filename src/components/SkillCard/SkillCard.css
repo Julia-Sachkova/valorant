@@ -3,12 +3,12 @@
     flex-direction: row;
     justify-content: space-between;
     background: #000000;
-    width: 364px;
-    height: 126px;
+    width: 455px;
+    height: 157.5px;
     position: relative;
     z-index: 4;
     clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
-    margin-right: 40px;
+    margin-right: 50px;
 }
 
 .card:last-of-type {
@@ -16,17 +16,13 @@
 }
 
 .card__container {
-    position: absolute;
-    top: 1px;
-    bottom: 1px;
-    right: 1px;
-    left: 1px;
+    margin: 1.25px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     background: #F8F8F8;
-    width: 362px;
-    height: 124px;
+    width: 452.5px;
+    height: 155px;
     position: relative;
     z-index: 4;
     clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
@@ -36,17 +32,17 @@
     display: flex;
     flex-direction: column;
     text-align: left;
-    margin: 15.5px 0 15.5px 29px;
+    margin: 19px 0 19px 36px;
 }
 
 .card__title {
     font-family: 'Druk Wide';
     font-style: normal;
     font-weight: 400;
-    font-size: 19px;
-    line-height: 20.5px;
+    font-size: 23px;
+    line-height: 25.5px;
     color: #C4C4C4;
-    margin: 0 0 16px;
+    margin: 0 0 20px;
     padding: 0;
 }
 
@@ -54,10 +50,10 @@
     font-family: 'Druk Wide';
     font-style: normal;
     font-weight: 400;
-    font-size: 11px;
-    line-height: 12.5px;
+    font-size: 13.5px;
+    line-height: 15.5px;
     color: #000000;
-    margin: 0 0 16px;
+    margin: 0 0 20px;
     padding: 0;
 }
 
@@ -65,53 +61,53 @@
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 300;
-    font-size: 8px;
-    line-height: 10px;
+    font-size: 10px;
+    line-height: 12.5px;
     letter-spacing: 0.1em;
     color: #1F2326;
     margin: 0;
     padding: 0;
-    max-width: 157.5px;
+    max-width: 196.5px;
 }
 
 .card__icon-container {
     height: 100%;
-    width: 42.5%;
+    width: 53%;
 }
 
 .card__icon-square {
-    width: 95px;
-    height: 91px;
+    width: 118.5px;
+    height: 113.5px;
     background-color: #FF4656;
     position: absolute;
     bottom: 0;
-    right: 59px;
+    right: 73.5px;
 }
 
 .card__basic-icon {
-    width: 83.5px;
-    height: 80.5px;
+    width: 104px;
+    height: 100.5px;
     position: absolute;
-    top: 15.5px;
-    right: 36px;
+    top: 19px;
+    right: 32.5px;
     background-color: transparent;
 }
 
 .card__signature-icon {
-    width: 85px;
-    height: 85px;
+    width: 106px;
+    height: 106px;
     position: absolute;
-    top: 11px;
-    right: 40px;
+    top: 13.5px;
+    right: 50px;
     background-color: transparent;
 }
 
 .card__ultimate-icon {
-    width: 89.5px;
-    height: 78px;
+    width: 111.5px;
+    height: 97.5px;
     position: absolute;
-    top: 18px;
-    right: 33px;
+    top: 22.5px;
+    right: 41px;
     background-color: transparent;
 }
 
@@ -120,33 +116,33 @@
     flex-direction: row;
     justify-content: space-between;
     background: #000000;
-    width: 111.5px;
-    height: 126px;
+    width: 139px;
+    height: 157.5px;
     position: relative;
     z-index: 4;
-    clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
-    margin-right: 40px;
+    clip-path: polygon(7% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
+    margin-right: 50px;
 }
 
 .card__last-container {
     position: absolute;
-    top: 1px;
-    bottom: 1px;
-    right: 1px;
-    left: 1px;
+    top: 1.25px;
+    bottom: 1.25px;
+    right: 1.25px;
+    left: 1.25px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     background: #F8F8F8;
-    width: 109.5px;
-    height: 124px;
+    width: 136.5px;
+    height: 155px;
     position: relative;
     z-index: 4;
-    clip-path: polygon(3% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
+    clip-path: polygon(7% 0, 100% 0%, 100% 100%, 0 100%, 0 7%);
 }
 
 .card__arrow {
-    width: 10.5px;
-    height: 9px;
+    width: 13px;
+    height: 11px;
 }

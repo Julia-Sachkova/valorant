@@ -1,0 +1,129 @@
+.player__section {
+    position: relative;
+    width: 275px;
+    height: 618.5px;
+    margin-right: 65px;
+    z-index: 4;
+}
+
+.player {
+    background: #1F2326;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    clip-path: polygon(4% 0, 100% 0%, 100% 100%, 0 100%, 0 3%);
+    z-index: 4;
+}
+
+.player:last-of-type {
+    margin: 0;
+}
+
+.player__container {
+    margin: 1.25px;
+    background: #1F2326;
+    width: 272.5px;
+    height: 616px;
+    position: relative;
+    z-index: 4;
+    clip-path: polygon(4% 0, 100% 0%, 100% 100%, 0 100%, 0 3%);
+}
+
+.player__container_on {
+    background: #F8F8F8;
+}
+
+.player__art {
+    width: 100%;
+    height: 100%;
+}
+
+.player__name {
+    font-family: 'Druk Wide';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 58.5px;
+    letter-spacing: 0.1em;
+    -webkit-text-stroke: 1px #fff;
+    color: transparent;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 170px;
+    left: -170px;
+    transform: rotate(90deg);
+    z-index: 5;
+}
+
+.player__name_on {
+    -webkit-text-stroke: 2px #1F2326;
+}
+
+.player__name_jett {
+    top: 100px;
+    left: -90px;
+}
+
+.player__name_sage {
+    top: 100px;
+    left: -100px;
+}
+
+.player__name_sova {
+    top: 100px;
+    left: -100px;
+}
+
+.player__country {
+    font-family: 'Druk Wide';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    color: #FF4656;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 120px;
+    left: -60px;
+    margin: 0;
+    padding: 0;
+}
+
+.player__country_jett {
+    top: 100px;
+    left: -30px;
+}
+
+.player__country_sova {
+    top: 60px;
+    left: 0;
+}
+
+.player__country_sage {
+    top: 60px;
+    left: 0;
+}
+
+.player__skills {
+    padding: 0 26.5px;
+    width: 222px;
+    height: 68.5px;
+    background: #1F2326;
+    border: 1px solid #F8F8F8;
+    position: absolute;
+    right: -19px;
+    bottom: -21.5px;
+    z-index: 5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.player__skills_on {
+    background: #FFFFFF;
+    border: 1px solid #1F2326;
+}
